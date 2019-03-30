@@ -1,0 +1,37 @@
+body{
+  background:  pink;
+}
+header{
+  font-weight:bolder;
+  text-align: center;
+  background: gray;
+  font-weight: bold;
+}
+img{
+  float: right;
+  width:10%;
+  height: :10%;
+
+}
+a{
+  float:right;
+}
+.child{
+  width: 20%;
+  padding:1%;
+  margin: :1%;
+  border:2px solid green;
+  text-align: center;
+  display: block;
+  background-color: red;
+  justify-content: space-around;
+}
+.child img{
+  width: 200px;
+  height: 200px;
+}
+.link{
+  /* text-decoration: none; */
+  /* background-color: red; */
+  color: blue;
+}
